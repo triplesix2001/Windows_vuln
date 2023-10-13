@@ -137,8 +137,6 @@ Write-Color "          by CarlosPolop & RandolphConley" -Color Green
 
 ######################## VARIABLES ########################
 
-# Manually added Regex search strings from https://github.com/carlospolop/PEASS-ng/blob/master/build_lists/sensitive_files.yaml
-
 # Set these values to true to add them to the regex search by default
 $password = $true
 $username = $true
